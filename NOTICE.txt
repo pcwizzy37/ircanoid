@@ -1,0 +1,6 @@
+This product includes software developed 
+at The Apache Software Foundation(http://www.apache.org)
+
+IRC protocol api support is provided by the irc-api library package,
+original software is avalible from: 
+https://code.google.com/p/irc-api/ (or https://github.com/migzai/irc-api)
